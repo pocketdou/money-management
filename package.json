@@ -1,0 +1,19 @@
+{
+  "name": "money-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcdulldd/money-management.git"
+  },
+  "author": "mcdulldd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcdulldd/money-management/issues"
+  },
+  "homepage": "https://github.com/mcdulldd/money-management#readme"
+}
